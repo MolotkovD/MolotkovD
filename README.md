@@ -1,2 +1,2 @@
 
-![CodeWars](https://www.codewars.com/users/Duyes/badges/large)
+![CodeWars](https://www.codewars.com/users/MolotkovD/badges/large)
