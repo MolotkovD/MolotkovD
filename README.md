@@ -6,7 +6,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MolotkovD&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/MolotkovD">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?usernameMolotkovD&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MolotkovD&theme=transparent" />
   </a>
   <a href="https://github.com/MolotkovD">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MolotkovD&theme=transparent" />
@@ -22,4 +22,5 @@
 <div align="center">
   
 ![CodeWars](https://www.codewars.com/users/MolotkovD/badges/large)
+
 </div>
