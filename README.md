@@ -15,7 +15,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MolotkovD&theme=transparent" />
   </a>
    <a href="https://github.com/MolotkovD">
-    <img src="https://github-profile-trophy.vercel.app/?username=MolotkovD&theme=transparent&column=5&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MolotkovD&theme=onedark&column=5&margin-w=15&margin-h=15"/>
   </a>
 </p>
 
