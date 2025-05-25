@@ -1,14 +1,15 @@
+<!--
 ### Languages
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/MolotkovD)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MolotkovD)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MolotkovD)
 [![JS](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MolotkovD)
-<!--[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/MolotkovD)-->
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/MolotkovD)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MolotkovD)
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=microsoft)](https://github.com/MolotkovD)
-
+-->
 <p align="center">
   <a href="https://github.com/MolotkovD">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MolotkovD&theme=transparent" />
